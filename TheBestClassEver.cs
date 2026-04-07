@@ -8,5 +8,9 @@ namespace AmazingConsoleApp
 {
     internal class TheBestClassEver
     {
+        public void BestMethodEver()
+        {
+            Console.WriteLine("This actually does something, wow!");
+        }
     }
 }
